@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle prettify",
+        "command": "prettify:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "prettify",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "prettify:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

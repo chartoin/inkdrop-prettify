@@ -1,0 +1,13 @@
+{
+  "name": "prettify",
+  "main": "./lib/prettify",
+  "version": "0.0.0",
+  "description": "A plugin to prettify editor contents in Inkdrop.",
+  "keywords": [],
+  "repository": "https://github.com/chartoin/inkdrop-prettify",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
